@@ -1,4 +1,4 @@
-# packageName
+# @qva/pixi-helper
 
 <!-- automd:badges color=yellow -->
 
