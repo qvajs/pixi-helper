@@ -1,6 +1,6 @@
 {
   "name": "@qva/pixi-helper",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A collection of Pixi utilities - 一个 Pixi 实用工具的合集",
   "repository": "https://github.com/qvajs/pixi-lottie",
   "license": "MIT",
